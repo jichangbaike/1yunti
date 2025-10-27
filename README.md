@@ -1,6 +1,6 @@
 # 一云梯（1yunti）官网地址，一云梯（1yunti）怎么样？
 
-最新的官网地址：https://finalgo.xyz/WAhXz7
+最新的官网地址：https://finalto.xyz/tUp9QU
 
 ## 一、机场介绍
 
