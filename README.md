@@ -181,6 +181,8 @@
 
 > 解锁情况会随着平台策略、IP 归属和区域政策调整而发生变化，以上内容仅为一般性说明，具体以实际体验为准。
 
+<img src="https://raw.githubusercontent.com/jichangbaike/1yunti/refs/heads/main/3605.png" witd="1000">
+
 ---
 
 ## 使用建议与线路选择
