@@ -128,7 +128,7 @@
 一云梯支持主流平台与客户端生态，适合多终端同时使用。常见组合包括（以官网说明为准）：
 
 - **桌面端（Windows / macOS / Linux）**  
-  - Clash 系列客户端等，支持导入订阅链接后统一管理节点。
+  - Clash Verge、FlClash 系列客户端等，支持导入订阅链接后统一管理节点。
 
 - **移动端（iOS / Android）**  
   - iOS 平台：Shadowrocket、Stash、Surge、Quantumult X 等（需通过合规渠道获取）；  
