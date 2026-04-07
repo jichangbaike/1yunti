@@ -136,15 +136,21 @@
 
 - **Windows 客户端**  
   
-  - 下载地址：https://dl.pbb.dexi009.com/apps/1yt/yytapp.exe
+  - [点击下载一云梯 Windows 客户端](https://dl.pbb.dexi009.com/apps/1yt/yytapp.exe)
+  - 输入账号和密码，开箱即用；
+  - 内置分流规则，可手动切换节点；
   
-- **Windows 客户端**  
+- **MacOS 客户端**  
 
-  - 下载地址：https://dl.pbb.dexi009.com/apps/1yt/yytapp.dmg
+  - [点击下载一云梯 MacOS 客户端](https://dl.pbb.dexi009.com/apps/1yt/yytapp.dmg)
+  - 输入账号和密码，开箱即用；
+  - 内置分流规则，可手动切换节点；
 
 
 - **Android 客户端** 
-   - 下载地址：https://dl.pbb.dexi009.com/apps/1yt/yytapp.apk
+   - [点击下载一云梯 Android 客户端](https://dl.pbb.dexi009.com/apps/1yt/yytapp.apk)
+   - 输入账号和密码，开箱即用；
+   - 内置分流规则，可手动切换节点；
 
 - **iOS 移动端**  
    - 外服商店搜索：**nextin** ，安装完成 需要ios15
